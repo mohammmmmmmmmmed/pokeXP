@@ -2,7 +2,7 @@
 
 A Windows 95 style Pokédex built with React.
 
-![demo](https://pokeXP.vercel.app/demo.png)
+![demo](https://api.pikwy.com/web/663dde78e5b5bf387e065cc8.jpg)
 
 ## Installing
 
